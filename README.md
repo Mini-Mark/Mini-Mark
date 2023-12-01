@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://scontent.fbkk12-4.fna.fbcdn.net/v/t39.30808-6/307724661_195110532895802_6164791088747414285_n.png?_nc_cat=103&ccb=1-7&_nc_sid=783fdb&_nc_ohc=ZWt45RE0OuAAX-5fpWg&_nc_ht=scontent.fbkk12-4.fna&oh=00_AfCnzMeD1d3ltp4Fvu0pHT8fbeTRZW6n5zvjmrotpJzCBg&oe=656DD31E" align="center" style="width: 100%;" />
+  <img src="https://github.com/Mini-Mark/Mini-Mark/blob/main/Banner.png?raw=true" align="center" style="width: 100%;" />
 </div>  
   
 
