@@ -119,8 +119,20 @@
 <br/>  
 
 
-## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mini-Mark&hide_border=true&layout=compact" align="right" /></div>  
+## Coding Game Profile
+<a href="https://leetcode.com/Mini-Mark/">
+  <img height=180 align="center" src="https://leetcard.jacoblin.cool/Mini-Mark?theme=dark&font=Prompt&border=0" />
+</a>
+<a href="https://www.codewars.com/users/MiniMark">
+  <img height=180 align="center" src="https://github.r2v.ch/codewars?user=MiniMark&hide_clan=true&theme=midnight_purple" />
+</a>
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mini-Mark&show_icons=true&count_private=true&hide_border=true" align="left" />
+## Github Stats
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mini-Mark&show_icons=true&count_private=true&hide_border=true&theme=github_dark_dimmed" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mini-Mark&hide_border=true&layout=compact&theme=github_dark_dimmed" />
+</a>
 <br />
