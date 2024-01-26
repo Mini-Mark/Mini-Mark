@@ -14,9 +14,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Mini-Mark"><img height=30 src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github title=github /></a>
+  <a href="https://codepen.io/MiniMark" target="_blank"><img height=30 src="https://img.shields.io/badge/codepen-000000.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt=instagram /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/im_minimark" target="_blank"><img height=30 src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram /></a>
+  <a href="https://www.sololearn.com/en/profile/6854281"><img height=30 src="https://img.shields.io/badge/sololearn-%2324292e.svg?&style=for-the-badge&logo=sololearn&logoColor=white" alt=github title=github /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/Mini-Mark/" target="_blank"><img height=30 src="https://img.shields.io/badge/leetcode-C69700.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt=instagram /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.codewars.com/users/MiniMark"><img height=30 src="https://img.shields.io/badge/codewars-BA422C.svg?&style=for-the-badge&logo=codewars&logoColor=white" alt=github title=github /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <br/><br/>
+  <a href="https://instagram.com/im_minimark" target="_blank"><img height=30 src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/100003063234792" target="_blank"><img height=30 src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
