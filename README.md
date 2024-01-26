@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=9000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Phongphiphat+Senta&weight=600&color=F38F54" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things;Full-Stack+Web+%26+Mobile+Developer&weight=500&color=F7DCA6" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things;Full-Stack+Web+%26+Mobile+Developer;Interested+in+DevOps+and+AI&weight=500&color=F7DCA6" />
 </p>
 
 <p align="center">
@@ -23,16 +23,6 @@
   <a href="mailto:mark.phongphiphat@gmail.com" target="_blank"><img height=30 src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<br/>  
-
-❤️ Currently, I am interested in DevOps and AI  
-  
-💼 If you are interested in contact me or would like to hire me, feel free to reach out  
-  
-
-<br/>  
-
 
 <details open> 
   <summary><h2>✨ My Skill Set</h2></summary>
