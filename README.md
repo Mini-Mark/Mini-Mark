@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=9000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Phongphiphat+Senta&weight=600&color=F38F54" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=9000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Phongphiphat+Senta&weight=600&color=F38F54&size=22" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=2000&center=true&vCenter=true&random=false&width=435&lines=Always+learning+new+things;Full-Stack+Web+%26+Mobile+Developer;Interested+in+DevOps+and+AI&weight=500&color=F7DCA6" />
 </p>
